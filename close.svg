@@ -14,7 +14,7 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    viewBox="0 0 744.09447 1052.3622"
    sodipodi:docname="close.svg">
   <defs
@@ -60,6 +60,48 @@
        x2="438.49237"
        y2="1453.0068"
        gradientTransform="translate(-100.0051,1145.513)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903-3"
+       id="radialGradient3911-2"
+       cx="489.99997"
+       cy="1247.3622"
+       fx="489.99997"
+       fy="1247.3622"
+       r="64.94326"
+       gradientTransform="translate(0,-6.213611e-5)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3903-3">
+      <stop
+         style="stop-color:#a19eff;stop-opacity:1;"
+         offset="0"
+         id="stop3905-6" />
+      <stop
+         style="stop-color:#a19eff;stop-opacity:0;"
+         offset="1"
+         id="stop3907-8" />
+    </linearGradient>
+    <radialGradient
+       r="64.94326"
+       fy="1247.3622"
+       fx="489.99997"
+       cy="1247.3622"
+       cx="489.99997"
+       gradientTransform="matrix(0.765447,0.01637921,-0.01674117,0.7823627,135.81326,263.44666)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3977"
+       xlink:href="#linearGradient3903-3"
+       inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter4010">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.798396"
+         id="feGaussianBlur4012" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -69,15 +111,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="395.70227"
-     inkscape:cy="-1098.4275"
+     inkscape:cx="198.21745"
+     inkscape:cy="275.37999"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -1001,8 +1043,8 @@
          id="tspan4267"
          sodipodi:role="line">a</tspan></text>
     <rect
-       inkscape:export-ydpi="9.3500004"
-       inkscape:export-xdpi="9.3500004"
+       inkscape:export-ydpi="7.79"
+       inkscape:export-xdpi="7.79"
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#4d4d4d;stroke-width:7.98900747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4250"
        width="92.010994"
@@ -1010,10 +1052,11 @@
        x="268.98941"
        y="2539.8696"
        ry="4.4727564"
-       rx="4.9072528" />
+       rx="4.9072528"
+       inkscape:export-filename="/home/juno/storage/local/icons/color-gray-20.png" />
     <rect
-       inkscape:export-ydpi="9.3500004"
-       inkscape:export-xdpi="9.3500004"
+       inkscape:export-ydpi="7.79"
+       inkscape:export-xdpi="7.79"
        rx="4.9072528"
        ry="4.4727564"
        y="2563.8696"
@@ -1021,10 +1064,11 @@
        height="92.010994"
        width="92.010994"
        id="rect4252"
-       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#4d4d4d;stroke-width:7.98900747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#4d4d4d;stroke-width:7.98900747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/juno/storage/local/icons/color-gray-20.png" />
     <rect
-       inkscape:export-ydpi="9.3500004"
-       inkscape:export-xdpi="9.3500004"
+       inkscape:export-ydpi="7.79"
+       inkscape:export-xdpi="7.79"
        style="opacity:1;fill:url(#linearGradient4258);fill-opacity:1;stroke:#4d4d4d;stroke-width:7.98900747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4254"
        width="92.010994"
@@ -1032,15 +1076,17 @@
        x="292.98941"
        y="2587.8696"
        ry="4.4727564"
-       rx="4.9072528" />
+       rx="4.9072528"
+       inkscape:export-filename="/home/juno/storage/local/icons/color-gray-20.png" />
     <circle
        r="110.97626"
        style="fill:none;stroke:#4d4d4d;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4256"
        cx="334.9949"
        cy="2602.8752"
-       inkscape:export-xdpi="9.3500004"
-       inkscape:export-ydpi="9.3500004" />
+       inkscape:export-xdpi="7.79"
+       inkscape:export-ydpi="7.79"
+       inkscape:export-filename="/home/juno/storage/local/icons/color-gray-20.png" />
     <circle
        style="fill:none;stroke:#4d4d4d;stroke-width:7.30502605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4270"
@@ -1254,5 +1300,153 @@
        inkscape:export-filename="D:\icons\gear-white-20.png"
        inkscape:export-xdpi="18"
        inkscape:export-ydpi="18" />
+    <ellipse
+       inkscape:export-filename="/home/juno/storage/local/icons/highlight-white-20.png"
+       ry="55.967922"
+       rx="55.967918"
+       inkscape:export-ydpi="15"
+       inkscape:export-xdpi="15"
+       cy="1247.3622"
+       cx="489.99997"
+       id="ellipse3121-2"
+       style="opacity:1;fill:url(#radialGradient3977);fill-opacity:1;stroke:none;filter:url(#filter4010)"
+       sodipodi:cx="489.99997"
+       sodipodi:cy="1247.3622"
+       sodipodi:rx="55.967918"
+       sodipodi:ry="55.967922"
+       transform="matrix(0.92910371,0,0,0.92910365,-328.99173,-578.30781)" />
+    <text
+       xml:space="preserve"
+       style="font-size:86.83518982px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="102.31781"
+       y="602.75641"
+       id="text4357-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99724779,1.0027598)"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15"
+       inkscape:export-filename="/home/juno/storage/local/icons/highlight-white-20.png"><tspan
+         sodipodi:role="line"
+         id="tspan4359-6"
+         x="102.31781"
+         y="602.75641">a</tspan></text>
+    <ellipse
+       sodipodi:ry="55.967922"
+       sodipodi:rx="55.967918"
+       sodipodi:cy="1247.3622"
+       sodipodi:cx="489.99997"
+       transform="translate(-362.76293,-666.70921)"
+       style="fill:none;stroke:#ffffff;stroke-width:8.06415939;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="circle4361-0"
+       cx="489.99997"
+       cy="1247.3622"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15"
+       rx="55.967918"
+       ry="55.967922"
+       inkscape:export-filename="/home/juno/storage/local/icons/highlight-white-20.png" />
+    <circle
+       style="fill:none;stroke:#4d4d4d;stroke-width:7.30502605;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="circle4014"
+       cx="147.77663"
+       cy="2351.0581"
+       r="46.347488"
+       inkscape:export-xdpi="14.4"
+       inkscape:export-ydpi="14.4"
+       sodipodi:cx="147.77663"
+       sodipodi:cy="2351.0581"
+       sodipodi:rx="46.347488"
+       sodipodi:ry="46.347488"
+       transform="translate(-148,0)"
+       inkscape:export-filename="/home/juno/storage/local/icons/add-gray-16.png" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4016"
+       width="10.101525"
+       height="60.609154"
+       x="-2356.1089"
+       y="-30.524822"
+       transform="matrix(1.4142129e-8,-1,1,-1.4142129e-8,0,0)"
+       inkscape:export-filename="/home/juno/storage/local/icons/add-gray-16.png"
+       inkscape:export-xdpi="14.4"
+       inkscape:export-ydpi="14.4" />
+    <rect
+       y="2320.7537"
+       x="-5.2710381"
+       height="60.609154"
+       width="10.101525"
+       id="rect4018"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/juno/storage/local/icons/add-gray-16.png"
+       inkscape:export-xdpi="14.4"
+       inkscape:export-ydpi="14.4" />
+    <circle
+       transform="translate(-148,144)"
+       sodipodi:ry="46.347488"
+       sodipodi:rx="46.347488"
+       sodipodi:cy="2351.0581"
+       sodipodi:cx="147.77663"
+       inkscape:export-ydpi="14.4"
+       inkscape:export-xdpi="14.4"
+       r="46.347488"
+       cy="2351.0581"
+       cx="147.77663"
+       id="circle4020"
+       style="fill:none;stroke:#4d4d4d;stroke-width:7.30502605;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/juno/storage/local/icons/minus-gray-16.png" />
+    <rect
+       transform="matrix(1.4142129e-8,-1,1,-1.4142129e-8,0,0)"
+       y="-30.524822"
+       x="-2500.1089"
+       height="60.609154"
+       width="10.101525"
+       id="rect4022"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/juno/storage/local/icons/minus-gray-16.png"
+       inkscape:export-xdpi="14"
+       inkscape:export-ydpi="14" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4026"
+       d="m 112.86888,908.8176 42.26222,0 0.11889,-0.11938 L 134,887.3622 l -21.25001,21.33602 0.11889,0.11938 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/juno/storage/local/icons/hide-white-20.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <rect
+       y="-957.36218"
+       x="-138.86227"
+       height="60.960075"
+       width="10.119047"
+       id="rect4028"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="scale(-1,-1)"
+       inkscape:export-filename="/home/juno/storage/local/icons/hide-white-20.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:8.95473766;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="circle4030"
+       cx="296.46191"
+       cy="545.46381"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15"
+       r="55.522633"
+       sodipodi:cx="296.46191"
+       sodipodi:cy="545.46381"
+       sodipodi:rx="55.522633"
+       sodipodi:ry="55.522633"
+       transform="translate(-162.46192,376.89839)"
+       inkscape:export-filename="/home/juno/storage/local/icons/hide-white-20.png" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4032"
+       width="60"
+       height="26"
+       x="103.99999"
+       y="931.36218"
+       inkscape:export-filename="/home/juno/storage/local/icons/hide-white-20.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15" />
   </g>
 </svg>
